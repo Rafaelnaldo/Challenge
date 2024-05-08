@@ -31,3 +31,4 @@ result = diskon10(10000)
 result2 = diskon20(10000)
 print(f"Diskon 10% = {result}")
 print(f"Diskon 20% = {result2}")
+
